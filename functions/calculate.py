@@ -30,7 +30,7 @@ def online(a,b):
     r=a+b
     print(r)
     
-online(6,4)
+addition(6,4)
 
 
     
